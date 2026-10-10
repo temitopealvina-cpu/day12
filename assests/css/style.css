@@ -1,0 +1,8 @@
+.food{
+    color: black;
+    background-color: gold;
+}
+.stuff{
+    border-image: url(../images/catering.jpg);
+    border-radius:50% 50%;
+}
